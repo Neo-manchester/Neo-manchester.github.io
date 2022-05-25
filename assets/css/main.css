@@ -2414,6 +2414,63 @@ input, select, textarea {
 				width: 100%;
 			}
 
+
+
+/* Image_rec */
+
+	.image_rec {
+		border: 0;
+		display: inline-block;
+		position: relative;
+	}
+
+		.image_rec img {
+			display: block;
+		}
+
+		.image_rec.left, .image_rec.right {
+			max-width: 40%;
+		}
+
+			.image_rec.left img, .image_rec.right img {
+				width: 100%;
+			}
+
+		.image_rec.left {
+			float: left;
+			margin: 0 1.5em 1em 0;
+			top: 0.25em;
+		}
+
+		.image_rec.right {
+			float: right;
+			margin: 0 0 1em 1.5em;
+			top: 0.25em;
+		}
+
+		.image_rec.fit {
+			display: block;
+			margin: 0 0 2em 0;
+			width: 100%;
+		}
+
+			.image_rec.fit img {
+				width: 100%;
+			}
+
+		.image_rec.main {
+			display: block;
+			margin: 0 0 3em 0;
+			width: 100%;
+		}
+
+			.image_rec.main img {
+				width: 100%;
+			}
+
+
+
+
 /* List */
 
 	ol {
