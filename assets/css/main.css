@@ -2363,6 +2363,8 @@ input, select, textarea {
 /* Image */
 
 	.image {
+		width: 180px;
+		height: 180px;
 		border-radius: 8px;
 		border: 0;
 		display: inline-block;
@@ -2419,6 +2421,8 @@ input, select, textarea {
 /* Image_rec */
 
 	.image_rec {
+		width: 250px;
+		height: 200px;
 		border: 0;
 		display: inline-block;
 		position: relative;
