@@ -2374,7 +2374,7 @@ input, select, textarea {
 			border-radius: 8px;
 			display: block;
 			max-width: 100%;
-			width: 40%;
+
 		}
 
 		.image.left, .image.right {
@@ -2431,7 +2431,7 @@ input, select, textarea {
 		.image_rec img {
 			display: block;
 			max-width: 100%;
-			width: 40%;
+
 		}
 
 		.image_rec.left, .image_rec.right {
