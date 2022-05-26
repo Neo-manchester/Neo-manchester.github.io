@@ -2426,12 +2426,12 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
-		max-width: 40%;
+		max-width: 60%;
 	}
 
 		.image_rec img {
 			display: block;
-			max-width: 40%;
+			max-width: 100%;
 
 
 		}
