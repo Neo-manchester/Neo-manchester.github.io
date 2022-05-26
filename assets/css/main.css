@@ -2373,8 +2373,8 @@ input, select, textarea {
 		.image img {
 			border-radius: 8px;
 			display: block;
-			max-width: 100%;
-			width: 40%;
+			max-width: 40%;
+			width: 100%;
 
 		}
 
@@ -2431,8 +2431,8 @@ input, select, textarea {
 
 		.image_rec img {
 			display: block;
-			max-width: 100%;
-			width: 40%;
+			max-width: 40%;
+			width: 100%;
 
 		}
 
