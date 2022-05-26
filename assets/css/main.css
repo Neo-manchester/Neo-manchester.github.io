@@ -2426,7 +2426,7 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
-		max-width: 60%;
+		max-width: 80%;
 	}
 
 		.image_rec img {
