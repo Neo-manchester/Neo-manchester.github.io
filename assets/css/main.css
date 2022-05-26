@@ -2437,7 +2437,7 @@ input, select, textarea {
 		}
 
 		.image_rec.left, .image_rec.right {
-			max-width: 60%;
+			max-width: 48%;
 		}
 
 			.image_rec.left img, .image_rec.right img {
